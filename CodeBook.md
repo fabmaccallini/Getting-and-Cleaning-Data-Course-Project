@@ -26,6 +26,6 @@ In order to provide descriptive activity names, the dataftame *activity.lables* 
 ### Step 4
 Except the first three columns in *my.data.set*, all other columns were renamed providing a descriptive label. Special caracters {()-} were removed and abbreviations were substituted by full words according to the explaination provided in the features_info.txt file.
 
-## Step 5
+### Step 5
 The average of each variable for each "Activity.Name" and each "Subject" was stored into a new dataframe, *result*. The first grouping factor is "Subject" and the second "Activity.Name" by arbitrary choice.
 The result may be written into a .txt file in the working directory by removing '#'and executing the line.
