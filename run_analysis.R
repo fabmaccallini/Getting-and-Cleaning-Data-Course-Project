@@ -67,3 +67,4 @@ my.data.set2 <-my.data.set %>% group_by(Subject, Activity.Name)
 # calculating the average of the groups
 result <- my.data.set2  %>% summarise_each(funs(mean))
 # write.table(result, file = "course_project.txt", row.name = FALSE)
+# view(result)
