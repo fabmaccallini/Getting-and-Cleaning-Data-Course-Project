@@ -1,7 +1,7 @@
 ### Introduction
 This CodeBook assumes a general knowledge about the project. More details about the project can be found through the link in the *README.md* file in this repository.
-The data were dowloaded  from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzipped into the R working directory.
-There will be no reference to units as all measurments in the original data set were normalised.
+The data were downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzipped into the R working directory.
+There will be no reference to units as all measurments were normalised in the original data set.
 
 ### Step 1
 The dataframe *full.test.set* is the result of the merge of:
